@@ -1,0 +1,4 @@
+Flask==2.3.2
+Flask-Cors==3.0.10  # If you want to enable CORS
+SQLAlchemy==2.0.21  # For database integration
+requests==2.31.0    # If you use Python requests for testing
